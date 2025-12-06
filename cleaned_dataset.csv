@@ -1,0 +1,127 @@
+Product_Name,Category,Unit_Price,Sales_Volume,Reorder_Level,Reorder_Quantity,Stock_Quantity
+All-Purpose Flour,Grains & Pulses,1.75,66,48,34,53
+Almond Flour,Grains & Pulses,9.5,41,36,57,58
+Anchovies,Seafood,10,61,50,59,74
+Apple,Fruits & Vegetables,3.5,53,55,56,60
+Apricot,Fruits & Vegetables,5,55,60,51,68
+Arabica Coffee,Beverages,20.22,55,61,47,53
+Arborio Rice,Grains & Pulses,4.5,51,44,60,57
+Asparagus,Fruits & Vegetables,4.94,57,33,46,55
+Avocado Oil,Oils & Fats,10,50,74,47,40
+Banana,Fruits & Vegetables,45.39,64,21,58,68
+Basmati Rice,Grains & Pulses,4.48,53,55,60,39
+Bell Pepper,Fruits & Vegetables,4.5,59,44,47,72
+Black Coffee,Beverages,15.09,66,50,46,52
+Black Rice,Grains & Pulses,6.18,61,56,66,57
+Black Tea,Beverages,5,61,46,70,40
+Blueberries,Fruits & Vegetables,10,52,49,51,54
+Bread Flour,Grains & Pulses,1.5,53,69,53,59
+Broccoli,Fruits & Vegetables,4,73,47,55,60
+Brown Rice,Grains & Pulses,2.5,52,57,44,49
+Butter,Dairy,3,54,72,56,48
+Butter Biscuit,Bakery,6,51,54,52,44
+Buttermilk,Dairy,2.48,44,57,68,52
+Cabbage,Fruits & Vegetables,9.17,51,53,43,65
+Canola Oil,Oils & Fats,2.3,66,51,61,64
+Carrot,Fruits & Vegetables,1.51,55,61,67,63
+Cauliflower,Fruits & Vegetables,2.55,61,52,51,61
+Cheddar Cheese,Dairy,8.98,68,54,53,59
+Cheese,Dairy,9.13,58,36,37,73
+Cherry,Fruits & Vegetables,8,47,54,48,40
+Chocolate Biscuit,Bakery,5,66,36,68,62
+Coconut,Fruits & Vegetables,5,48,51,30,57
+Coconut Oil,Oils & Fats,5,59,80,55,67
+Coconut Sugar,Grains & Pulses,5,62,58,58,46
+Cod,Seafood,8,70,46,43,51
+Corn Oil,Oils & Fats,2.5,52,55,44,46
+Cottage Cheese,Dairy,4.95,72,57,57,65
+Cream,Dairy,2.46,65,36,47,51
+Cucumber,Fruits & Vegetables,1.79,57,48,55,43
+Digestive Biscuit,Bakery,4,70,52,54,58
+Egg (Chicken),Dairy,0.2,73,36,29,44
+Egg (Duck),Dairy,1,64,44,50,50
+Egg (Goose),Dairy,2.48,59,57,44,58
+Egg (Quail),Dairy,0.8,70,67,66,71
+Egg (Turkey),Dairy,2.48,63,57,53,54
+Eggplant,Fruits & Vegetables,3,45,42,46,57
+Evaporated Milk,Dairy,1.98,61,53,66,43
+Feta Cheese,Dairy,7,54,44,43,89
+Garlic,Fruits & Vegetables,7,71,41,43,45
+Gouda Cheese,Dairy,7,59,48,51,70
+Grapes,Fruits & Vegetables,5.5,54,60,61,59
+Greek Yogurt,Dairy,15.54,55,48,47,57
+Green Beans,Fruits & Vegetables,2.04,52,69,36,52
+Green Coffee,Beverages,12.13,61,56,56,51
+Green Tea,Beverages,8.01,70,55,60,48
+Haddock,Seafood,9,64,62,59,57
+Halibut,Seafood,20,67,51,70,49
+Heavy Cream,Dairy,4.06,54,54,56,61
+Herbal Tea,Beverages,30.25,56,29,45,49
+Icecream,Dairy,5.99,45,15,32,35
+Jasmine Rice,Grains & Pulses,4.75,61,36,60,48
+Kale,Fruits & Vegetables,4,50,53,73,65
+Kiwi,Fruits & Vegetables,5.92,51,47,49,43
+Lemon,Fruits & Vegetables,2.46,52,50,62,67
+Lettuce,Fruits & Vegetables,2,42,23,38,67
+Lime,Fruits & Vegetables,1.97,64,44,50,44
+Long Grain Rice,Grains & Pulses,1.51,59,50,62,51
+Mackerel,Seafood,7.5,57,37,52,69
+Mango,Fruits & Vegetables,4.92,50,54,37,66
+Milk,Dairy,0.98,52,67,58,32
+Mozzarella Cheese,Dairy,7.07,58,45,41,47
+Multigrain Bread,Bakery,3.36,50,51,46,65
+Mushrooms,Fruits & Vegetables,6.16,72,38,46,55
+Oatmeal Biscuit,Bakery,5,50,34,46,49
+Olive Oil,Oils & Fats,6,64,50,45,58
+Onion,Fruits & Vegetables,2,50,46,61,45
+Orange,Fruits & Vegetables,2.97,67,52,53,67
+Palm Oil,Oils & Fats,1.8,58,42,62,54
+Papaya,Fruits & Vegetables,4.46,47,48,53,54
+Parmesan Cheese,Dairy,11.97,57,38,61,66
+Peach,Fruits & Vegetables,4,67,64,52,49
+Peanut Oil,Oils & Fats,4,62,35,44,46
+Pear,Fruits & Vegetables,4.49,50,52,48,60
+Peas,Fruits & Vegetables,3,69,48,25,64
+Pineapple,Fruits & Vegetables,3.49,61,50,42,42
+Plum,Fruits & Vegetables,3.95,61,45,58,41
+Pomegranate,Fruits & Vegetables,6,65,51,37,51
+Popcorn,Snacks,5.49,55,20,12,32
+Potato,Fruits & Vegetables,1.2,63,49,61,39
+Potato Chips,Snacks,2.97,90,25,24,42
+Powdered Sugar,Grains & Pulses,2.48,58,18,52,55
+Pretzels,Snacks,3.2,35,15,12,28
+Raw Sugar,Grains & Pulses,1.5,56,56,63,62
+Rice Flour,Grains & Pulses,2,59,48,57,41
+Ricotta Cheese,Dairy,6.03,57,50,54,67
+Robusta Coffee,Beverages,10.1,52,49,48,50
+Rye Bread,Bakery,2.95,60,48,60,54
+Salmon,Seafood,15,62,49,39,76
+Sardines,Seafood,6,61,40,45,53
+Sesame Oil,Oils & Fats,6.5,54,58,52,60
+Short Grain Rice,Grains & Pulses,3.21,57,68,57,45
+Soda,Beverages,1.2,120,25,50,60
+Sour Cream,Dairy,4.02,50,55,27,46
+Sourdough Bread,Bakery,4.2,55,69,61,44
+Spinach,Fruits & Vegetables,2.48,58,45,67,55
+Strawberries,Fruits & Vegetables,5.98,58,55,48,47
+Sunflower Oil,Oils & Fats,2.5,79,40,33,57
+Sushi Rice,Grains & Pulses,4.39,48,44,50,47
+Sweet Potato,Fruits & Vegetables,2,86,40,45,72
+Swiss Cheese,Dairy,8.01,64,41,48,64
+Tilapia,Seafood,6.95,63,61,46,66
+Tomato,Fruits & Vegetables,2.5,85,42,54,54
+Trout,Seafood,11.83,78,68,74,65
+Tuna,Seafood,18,41,54,68,60
+Vanilla Biscuit,Bakery,5.5,73,39,22,88
+Vegetable Oil,Oils & Fats,2,62,79,43,48
+Watermelon,Fruits & Vegetables,3,70,44,54,51
+Whipped Cream,Dairy,4.02,69,59,53,61
+White Bread,Bakery,2.5,70,69,65,65
+White Rice,Grains & Pulses,1.8,67,61,40,43
+White Sugar,Grains & Pulses,2,52,53,48,39
+White Tea,Beverages,25.11,64,64,49,59
+Whole Wheat Bread,Bakery,3.5,83,59,30,51
+Whole Wheat Flour,Grains & Pulses,2.73,46,68,57,59
+Wild Rice,Grains & Pulses,9.94,61,48,48,49
+Yogurt,Dairy,1.74,57,59,57,68
+Zucchini,Fruits & Vegetables,2.5,48,51,52,56
