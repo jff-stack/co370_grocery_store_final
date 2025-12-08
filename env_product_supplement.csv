@@ -1,0 +1,127 @@
+Product_Name,storage_type,is_essential
+All-Purpose Flour,S,0
+Almond Flour,S,0
+Anchovies,F,0
+Apple,S,0
+Apricot,S,0
+Arabica Coffee,S,0
+Arborio Rice,S,1
+Asparagus,S,0
+Avocado Oil,S,0
+Banana,S,1
+Basmati Rice,S,1
+Bell Pepper,S,0
+Black Coffee,S,0
+Black Rice,S,1
+Black Tea,S,0
+Blueberries,S,0
+Bread Flour,S,1
+Broccoli,S,0
+Brown Rice,S,1
+Butter,R,0
+Butter Biscuit,S,0
+Buttermilk,R,1
+Cabbage,S,0
+Canola Oil,S,0
+Carrot,S,0
+Cauliflower,S,0
+Cheddar Cheese,R,1
+Cheese,R,1
+Cherry,S,0
+Chocolate Biscuit,S,0
+Coconut,S,0
+Coconut Oil,S,0
+Coconut Sugar,S,0
+Cod,F,0
+Corn Oil,S,0
+Cottage Cheese,R,1
+Cream,R,0
+Cucumber,S,0
+Digestive Biscuit,S,0
+Egg (Chicken),R,0
+Egg (Duck),R,0
+Egg (Goose),R,0
+Egg (Quail),R,0
+Egg (Turkey),R,0
+Eggplant,S,0
+Evaporated Milk,R,1
+Feta Cheese,R,1
+Garlic,S,0
+Gouda Cheese,R,1
+Grapes,S,0
+Greek Yogurt,R,0
+Green Beans,S,0
+Green Coffee,S,0
+Green Tea,S,0
+Haddock,F,0
+Halibut,F,0
+Heavy Cream,R,0
+Herbal Tea,S,0
+Icecream,R,0
+Jasmine Rice,S,1
+Kale,S,0
+Kiwi,S,0
+Lemon,S,0
+Lettuce,S,0
+Lime,S,0
+Long Grain Rice,S,1
+Mackerel,F,0
+Mango,S,0
+Milk,R,1
+Mozzarella Cheese,R,1
+Multigrain Bread,S,1
+Mushrooms,S,0
+Oatmeal Biscuit,S,0
+Olive Oil,S,0
+Onion,S,0
+Orange,S,0
+Palm Oil,S,0
+Papaya,S,0
+Parmesan Cheese,R,1
+Peach,S,0
+Peanut Oil,S,0
+Pear,S,0
+Peas,S,0
+Pineapple,S,0
+Plum,S,0
+Pomegranate,S,0
+Popcorn,S,0
+Potato,S,1
+Potato Chips,S,1
+Powdered Sugar,S,0
+Pretzels,S,0
+Raw Sugar,S,0
+Rice Flour,S,1
+Ricotta Cheese,R,1
+Robusta Coffee,S,0
+Rye Bread,S,1
+Salmon,F,0
+Sardines,F,0
+Sesame Oil,S,0
+Short Grain Rice,S,1
+Soda,S,1
+Sour Cream,R,0
+Sourdough Bread,S,1
+Spinach,S,0
+Strawberries,S,0
+Sunflower Oil,S,0
+Sushi Rice,S,1
+Sweet Potato,S,1
+Swiss Cheese,R,1
+Tilapia,F,0
+Tomato,S,0
+Trout,F,0
+Tuna,F,0
+Vanilla Biscuit,S,0
+Vegetable Oil,S,0
+Watermelon,S,1
+Whipped Cream,R,0
+White Bread,S,1
+White Rice,S,1
+White Sugar,S,0
+White Tea,S,0
+Whole Wheat Bread,S,1
+Whole Wheat Flour,S,0
+Wild Rice,S,1
+Yogurt,R,0
+Zucchini,S,0
