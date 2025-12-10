@@ -20,7 +20,7 @@ STORAGE_MAP = {
 ESSENTIALS = ['Milk', 'Cheese', 'Eggs', 'Bread', 'Banana', 'Potato', 'Rice', 'Water', 'Soda', 'Fish']
 
 # supplementary product data (sets S', R', F', T)
-df_prods = pd.read_csv('processed_optimization_data.csv')
+df_prods = pd.read_csv('product_parameter.csv')
 
 # map storage types with the different categories
 df_prods['storage_type'] = df_prods['Category'].map(STORAGE_MAP).fillna('S')
@@ -65,6 +65,17 @@ df_shelves = pd.DataFrame(shelves)
 df_shelves['Width_W'] = SHELF_WIDTH
 df_shelves['Levels_N'] = NUM_LEVELS
 df_shelves['DIST_b'] = np.sqrt(df_shelves['X']**2 + df_shelves['Y']**2).round(2)
+
+# assumes that if front of the store it'll be the first thing you see, therefore you buy
+# by experience, most dry ingrdients that are high demand are at the back of the store
+# since high-demand essentials like milk, eggs, & cheese are in fridges, assume they are high demand too 
+
+conditions = (
+    (df_shelves['Y'] == 10) |   # Front Row
+    (df_shelves['Y'] == 40) |   # Back Row (Dry Essentials)
+    (df_shelves['Type'] == 'R') # Fridges 
+)
+df_shelves['is_high_demand'] = np.where(conditions, 1, 0)
 
 df_shelves.to_csv('env_shelves.csv', index=False)
 print("created 'env_shelves.csv'")
