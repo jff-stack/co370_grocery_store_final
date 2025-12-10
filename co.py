@@ -7,7 +7,7 @@ np.random.seed(42)
 df['Unit_Price'] = pd.to_numeric(df['Unit_Price'].astype(str).str.replace('$', ''), errors='coerce')
 
 # Profit (rho): Price * 30% Profit Margin
-df['rho'] = df['Unit_Price'] * 0.30
+df['rho'] = df['Unit_Price'] * 0.03
 
 # Demand (delta) = Product Sales / Total Store Sales
 df['delta'] = df['Sales_Volume'] / df['Sales_Volume'].sum()
@@ -47,6 +47,7 @@ df['min_l'] = np.random.choice(
 target_inventory = df['Reorder_Level'] + df['Reorder_Quantity'] #this is the assumed max inventory we would carry, hence target
 df['max_v'] = np.floor(target_inventory / df['mu']).astype(int)
 
+df['min_l'] = np.where(df['min_l'] > df['max_v'], df['max_v'], df['min_l'])
 # Space per Display (zeta): avg width of product in each category (rather than define every product's width) * number of facings in display based
 #                                                                                                                                       on # units in display
 #                                                                                                        (i.e. if mu = 12 units, then 2 facings if display 
