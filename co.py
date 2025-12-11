@@ -35,7 +35,7 @@ omega = {}
 omega_prime = {} 
 
 for shelf in shelves:
-    base_fees = np.random.uniform(5, 10, size=len(df))
+    base_fees = np.random.uniform(0.8, 2.3, size=len(df))
     w_values = np.round(base_fees * shelf_quality[shelf], 2)
     w_prime_values = np.round(w_values * traffic_multiplier, 2)
 
