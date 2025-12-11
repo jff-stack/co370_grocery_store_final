@@ -1,0 +1,982 @@
+Product_Name,Category,Supplier_Name,Stock_Quantity,Reorder_Level,Reorder_Quantity,Unit_Price,Sales_Volume
+Sushi Rice,Grains & Pulses,Jaxnation,22,72,70,4.5,32
+Arabica Coffee,Beverages,Feedmix,45,77,2,20,85
+Black Rice,Grains & Pulses,No_Name,30,38,83,6,31
+Long Grain Rice,Grains & Pulses,No_Name,12,59,62,1.5,95
+Plum,Fruits & Vegetables,Topicstorm,37,30,74,4,62
+All-Purpose Flour,Grains & Pulses,No_Name,55,33,14,1.25,34
+Corn Oil,Oils & Fats,Tagfeed,96,52,16,2.5,67
+Egg (Goose),Dairy,Muxo,44,90,17,2.5,21
+Greek Yogurt,Dairy,Thoughtstorm,91,84,11,3,56
+Egg (Duck),Dairy,Wordify,43,10,15,1,27
+Long Grain Rice,Grains & Pulses,Fivebridge,62,81,91,1.6,100
+White Sugar,Grains & Pulses,Zooxo,91,98,6,2,100
+Rye Bread,Bakery,Vitz,26,79,31,3,47
+Plum,Fruits & Vegetables,Voomm,95,50,76,4,69
+Strawberries,Fruits & Vegetables,Babblestorm,54,26,16,6,63
+Feta Cheese,Dairy,Youfeed,94,13,15,7,20
+Bread Flour,Grains & Pulses,Mynte,27,93,88,1.5,66
+Swiss Cheese,Dairy,Reallinks,49,49,26,8,78
+Arabica Coffee,Beverages,Skivee,55,93,84,20,46
+White Sugar,Grains & Pulses,Mydeo,65,61,82,2,29
+Spinach,Fruits & Vegetables,Devshare,72,70,99,2.5,82
+Trout,Seafood,Jabbertype,49,73,48,12,52
+Green Beans,Fruits & Vegetables,No_Name,81,99,28,2,20
+Cabbage,Fruits & Vegetables,No_Name,88,46,55,1,73
+Parmesan Cheese,Dairy,Feedspan,63,4,85,12,59
+Raw Sugar,Grains & Pulses,No_Name,31,43,80,1.5,46
+Egg (Quail),Dairy,No_Name,97,88,81,0.8,97
+Mushrooms,Fruits & Vegetables,No_Name,72,87,39,6,94
+Oatmeal Biscuit,Bakery,Gigazoom,16,9,32,5,50
+Pear,Fruits & Vegetables,Centizu,77,20,5,4.5,61
+Cucumber,Fruits & Vegetables,Brainverse,19,36,72,1.75,31
+Pineapple,Fruits & Vegetables,Photojam,18,52,22,3.5,42
+Olive Oil,Oils & Fats,Kamba,47,48,73,6,42
+Herbal Tea,Beverages,Pixonyx,77,45,75,30,25
+Haddock,Seafood,Midel,46,28,73,9,65
+Onion,Fruits & Vegetables,Skyble,39,22,73,2,60
+Sushi Rice,Grains & Pulses,Linklinks,75,69,100,4.5,43
+Pineapple,Fruits & Vegetables,Flipbug,48,48,39,3.45,51
+Zucchini,Fruits & Vegetables,No_Name,61,90,26,2.5,79
+Short Grain Rice,Grains & Pulses,Snaptags,60,90,85,3,47
+Mango,Fruits & Vegetables,Twitternation,24,55,51,5,39
+Lemon,Fruits & Vegetables,Layo,12,7,48,2.3,66
+Black Coffee,Beverages,Realpoint,84,13,88,15,25
+Butter,Dairy,Kayveo,51,100,70,3,40
+Multigrain Bread,Bakery,Roombo,65,36,37,3.5,32
+Long Grain Rice,Grains & Pulses,Voonyx,67,88,32,1.5,66
+Bread Flour,Grains & Pulses,Browsezoom,14,74,71,1.5,37
+Kiwi,Fruits & Vegetables,Fiveclub,45,24,61,6,44
+Mango,Fruits & Vegetables,Skipfire,92,46,13,5,24
+Sourdough Bread,Bakery,Flashspan,41,84,90,4,42
+Short Grain Rice,Grains & Pulses,Katz,41,36,78,4.5,38
+Orange,Fruits & Vegetables,Devshare,85,45,71,3,95
+Pineapple,Fruits & Vegetables,No_Name,44,80,84,3.4,96
+White Bread,Bakery,Skyble,92,87,84,2.5,61
+Green Coffee,Beverages,Kwinu,62,89,18,12,35
+Zucchini,Fruits & Vegetables,Brainverse,26,18,62,2.5,57
+Sourdough Bread,Bakery,Vinte,59,78,6,4.5,32
+Orange,Fruits & Vegetables,No_Name,88,37,61,2.9,63
+Sardines,Seafood,Ntag,91,59,49,6,30
+Olive Oil,Oils & Fats,Blogspan,28,17,28,6,38
+Carrot,Fruits & Vegetables,Avaveo,51,60,98,1.5,44
+Black Tea,Beverages,No_Name,46,27,76,5,64
+Pear,Fruits & Vegetables,No_Name,82,65,69,4.45,30
+Olive Oil,Oils & Fats,Midel,100,92,26,6,84
+Ricotta Cheese,Dairy,No_Name,51,53,88,6,54
+Black Coffee,Beverages,Flipbug,61,43,29,15,67
+White Tea,Beverages,No_Name,99,87,10,25,93
+Cucumber,Fruits & Vegetables,Gigazoom,13,60,100,1.8,44
+Mozzarella Cheese,Dairy,No_Name,45,63,75,7,83
+Broccoli,Fruits & Vegetables,Realblab,73,87,46,4,47
+Eggplant,Fruits & Vegetables,Eire,39,21,5,3,51
+Trout,Seafood,Blogtag,29,72,96,12,85
+Heavy Cream,Dairy,Ntags,12,60,73,4,20
+Bell Pepper,Fruits & Vegetables,No_Name,96,33,72,4.45,74
+Onion,Fruits & Vegetables,Skiba,35,92,74,2,76
+Sardines,Seafood,Voolia,89,34,15,6,60
+Mango,Fruits & Vegetables,No_Name,60,36,28,4.5,26
+Arborio Rice,Grains & Pulses,No_Name,20,34,74,4.5,50
+Potato,Fruits & Vegetables,No_Name,28,40,27,1.2,30
+Corn Oil,Oils & Fats,Tagopia,20,55,15,2.5,86
+Butter Biscuit,Bakery,No_Name,38,93,61,6,67
+Peas,Fruits & Vegetables,Edgepulse,99,1,4,3,50
+Cream,Dairy,Oyondu,92,52,80,2.5,72
+Spinach,Fruits & Vegetables,Abatz,41,29,76,2.4,59
+Sardines,Seafood,Browsetype,44,67,48,6,90
+White Sugar,Grains & Pulses,Photobean,47,7,63,2,29
+Bread Flour,Grains & Pulses,Mydeo,21,63,65,1.5,38
+Cucumber,Fruits & Vegetables,Skinte,85,33,50,1.8,64
+Swiss Cheese,Dairy,Cogilith,29,4,17,8,59
+Peanut Oil,Oils & Fats,Bluezoom,64,21,13,4,51
+Blueberries,Fruits & Vegetables,Jaloo,66,40,96,10,24
+Chocolate Biscuit,Bakery,Vidoo,75,81,17,5,69
+Cheese,Dairy,Shuffledrive,53,63,2,9,56
+Palm Oil,Oils & Fats,Zooxo,43,63,80,1.8,33
+Eggplant,Fruits & Vegetables,Topicblab,74,30,24,3,82
+Garlic,Fruits & Vegetables,No_Name,27,22,89,7,91
+Jasmine Rice,Grains & Pulses,Yadel,91,73,77,4.75,51
+Rice Flour,Grains & Pulses,No_Name,52,81,53,2,95
+Zucchini,Fruits & Vegetables,Livetube,43,66,85,2.5,66
+Multigrain Bread,Bakery,Zoombox,56,86,23,3.2,67
+Ricotta Cheese,Dairy,Photobug,66,40,8,6,43
+Bread Flour,Grains & Pulses,No_Name,84,92,18,1.5,92
+Cottage Cheese,Dairy,No_Name,37,5,1,5,68
+Whipped Cream,Dairy,No_Name,29,36,40,4,60
+Almond Flour,Grains & Pulses,No_Name,13,88,7,7.25,24
+Lemon,Fruits & Vegetables,Mydo,63,81,94,2.5,56
+Tilapia,Seafood,Fiveclub,95,63,73,7,61
+Lettuce,Fruits & Vegetables,No_Name,58,5,1,2,53
+Peanut Oil,Oils & Fats,Edgeify,57,36,53,4,56
+Sardines,Seafood,No_Name,33,18,92,6,98
+Arabica Coffee,Beverages,Voomm,62,89,6,20,23
+Coconut,Fruits & Vegetables,Mydo,89,57,92,5,38
+Cod,Seafood,Devbug,23,42,87,8,63
+Banana,Fruits & Vegetables,Vinder,56,12,59,98.43,35
+Black Rice,Grains & Pulses,Wikivu,86,100,74,6.1,80
+Pomegranate,Fruits & Vegetables,No_Name,60,61,2,6,96
+Pineapple,Fruits & Vegetables,Rooxo,70,30,69,3.5,44
+Peach,Fruits & Vegetables,No_Name,47,72,73,4,93
+Arborio Rice,Grains & Pulses,Realcube,95,93,16,4.5,60
+Plum,Fruits & Vegetables,Brainsphere,20,42,21,3.85,61
+Sushi Rice,Grains & Pulses,Dabshots,19,17,14,4.3,58
+Arabica Coffee,Beverages,Yadel,74,72,18,21,83
+Pear,Fruits & Vegetables,Riffwire,61,50,9,4.5,24
+Sourdough Bread,Bakery,Eadel,34,42,86,4,28
+Pear,Fruits & Vegetables,Gigaclub,29,20,85,4.5,31
+Heavy Cream,Dairy,Skynoodle,14,99,97,4.2,28
+White Rice,Grains & Pulses,No_Name,20,20,56,1.8,62
+Cauliflower,Fruits & Vegetables,Shufflester,40,38,32,3.2,21
+Canola Oil,Oils & Fats,Mydeo,91,82,58,2.3,43
+Avocado Oil,Oils & Fats,Skajo,99,96,39,10,94
+Bread Flour,Grains & Pulses,Eidel,34,46,45,1.5,49
+Gouda Cheese,Dairy,Thoughtblab,100,21,64,7,20
+Black Rice,Grains & Pulses,Bubblemix,79,98,97,6,26
+Greek Yogurt,Dairy,Thoughtblab,62,2,98,3,50
+Tuna,Seafood,Meemm,25,44,96,18,36
+Buttermilk,Dairy,Vinder,47,2,76,2.5,48
+Orange,Fruits & Vegetables,Kanoodle,15,44,88,3,56
+Pomegranate,Fruits & Vegetables,Flipopia,19,65,48,6,59
+Tuna,Seafood,Realbridge,58,77,96,18,25
+Sour Cream,Dairy,Skyvu,11,30,4,4,84
+Rice Flour,Grains & Pulses,Jabberstorm,99,44,52,2,36
+Long Grain Rice,Grains & Pulses,Geba,26,82,19,1.5,76
+Bell Pepper,Fruits & Vegetables,Linklinks,70,31,55,4.5,23
+Bell Pepper,Fruits & Vegetables,Skimia,50,3,88,4.5,69
+Pineapple,Fruits & Vegetables,Bubblemix,55,91,35,3.5,81
+Cod,Seafood,Buzzshare,31,87,19,8,41
+Green Tea,Beverages,Oyoyo,63,92,26,8,93
+Sardines,Seafood,Shufflester,73,31,49,6,22
+Sourdough Bread,Bakery,Eayo,12,86,98,4,75
+Short Grain Rice,Grains & Pulses,Yombu,53,86,54,3,44
+Powdered Sugar,Grains & Pulses,Meeveo,68,7,37,2.5,69
+Swiss Cheese,Dairy,Skidoo,80,9,29,8.1,54
+Tuna,Seafood,Meedoo,92,68,79,18,40
+Cucumber,Fruits & Vegetables,Eire,31,98,72,1.8,91
+Eggplant,Fruits & Vegetables,Topicstorm,31,44,9,3,46
+Garlic,Fruits & Vegetables,Tavu,76,97,20,7,52
+Vegetable Oil,Oils & Fats,Trudeo,57,99,23,2,89
+Whipped Cream,Dairy,Yotz,92,99,93,4,43
+Cheddar Cheese,Dairy,Demizz,88,74,97,9,79
+Coconut,Fruits & Vegetables,Skippad,99,8,27,5,41
+Egg (Turkey),Dairy,Topiclounge,44,84,63,2.5,51
+Herbal Tea,Beverages,Browsecat,48,77,81,31,70
+Sesame Oil,Oils & Fats,No_Name,27,92,56,6.5,29
+Black Rice,Grains & Pulses,Npath,34,96,76,6.15,90
+Orange,Fruits & Vegetables,Skipfire,41,94,4,3,88
+Black Tea,Beverages,Topicstorm,56,12,85,5,52
+Asparagus,Fruits & Vegetables,No_Name,22,40,7,5,98
+Palm Oil,Oils & Fats,No_Name,40,2,58,1.8,71
+Swiss Cheese,Dairy,Gevee,50,99,73,8,42
+Mango,Fruits & Vegetables,Meevee,89,92,62,4.8,46
+Egg (Turkey),Dairy,No_Name,76,54,76,2.5,69
+Whole Wheat Flour,Grains & Pulses,No_Name,67,60,21,2.75,30
+Robusta Coffee,Beverages,No_Name,62,78,97,10,62
+Watermelon,Fruits & Vegetables,No_Name,75,10,68,3,90
+Green Coffee,Beverages,Cogibox,75,47,33,12.5,33
+Cream,Dairy,Meevee,29,32,26,2.5,64
+Oatmeal Biscuit,Bakery,No_Name,34,55,22,5,77
+Green Tea,Beverages,Tanoodle,15,66,85,8,60
+Anchovies,Seafood,Jaxspan,88,56,81,10,98
+Cheddar Cheese,Dairy,Jayo,40,81,40,9,40
+Avocado Oil,Oils & Fats,Quamba,10,86,23,10,24
+Arabica Coffee,Beverages,Feedmix,21,87,12,21,20
+Trout,Seafood,Zazio,75,25,99,12,89
+Cod,Seafood,Izio,56,50,80,8,99
+Rye Bread,Bakery,Brainlounge,69,65,91,3,98
+Basmati Rice,Grains & Pulses,No_Name,56,53,77,4.5,69
+White Sugar,Grains & Pulses,Dazzlesphere,24,69,2,2,20
+Sourdough Bread,Bakery,Thoughtstorm,30,85,21,4.5,32
+White Tea,Beverages,Voolith,36,90,57,25,35
+White Bread,Bakery,No_Name,93,76,82,2.5,76
+Mozzarella Cheese,Dairy,Feedfire,96,38,17,7,72
+Peanut Oil,Oils & Fats,Eidel,60,88,65,4,94
+Gouda Cheese,Dairy,Skimia,97,77,13,7,43
+Chocolate Biscuit,Bakery,No_Name,11,6,100,5,88
+Pomegranate,Fruits & Vegetables,Kamba,14,66,1,6,86
+Sunflower Oil,Oils & Fats,No_Name,88,100,17,2.5,25
+Jasmine Rice,Grains & Pulses,Jabbertype,24,15,6,4.75,35
+Haddock,Seafood,Babbleopia,93,62,65,9,78
+Black Rice,Grains & Pulses,No_Name,68,68,97,6,37
+Rye Bread,Bakery,No_Name,28,94,80,2.8,31
+Lime,Fruits & Vegetables,Vinder,21,30,32,2,43
+Pomegranate,Fruits & Vegetables,Shuffledrive,92,96,56,6,32
+Robusta Coffee,Beverages,Jetwire,68,12,42,10,39
+Multigrain Bread,Bakery,Topicshots,46,43,46,3.5,68
+Cucumber,Fruits & Vegetables,No_Name,47,20,65,1.75,49
+Olive Oil,Oils & Fats,No_Name,52,88,55,6,100
+Mushrooms,Fruits & Vegetables,Youfeed,51,62,95,6,52
+Egg (Goose),Dairy,No_Name,14,63,74,2.5,59
+Greek Yogurt,Dairy,Meeveo,62,44,11,51.17,92
+Peach,Fruits & Vegetables,Wikizz,40,53,7,4,70
+White Tea,Beverages,Feedbug,50,100,91,25.5,29
+Sushi Rice,Grains & Pulses,No_Name,77,20,37,4.25,42
+Strawberries,Fruits & Vegetables,No_Name,31,89,7,5.9,46
+Mushrooms,Fruits & Vegetables,Twitterbeat,35,19,30,6.5,88
+Broccoli,Fruits & Vegetables,No_Name,31,54,52,4,69
+White Bread,Bakery,Ozu,56,62,64,2.5,56
+Greek Yogurt,Dairy,No_Name,90,62,54,3,70
+Canola Oil,Oils & Fats,Yodo,79,31,66,2.3,92
+Lime,Fruits & Vegetables,Tazz,29,83,91,2,81
+Blueberries,Fruits & Vegetables,DabZ,42,4,53,10,37
+Mozzarella Cheese,Dairy,Devpoint,16,56,13,7.2,56
+Tuna,Seafood,Viva,89,95,41,18,76
+White Tea,Beverages,Chatterbridge,20,43,43,25,73
+Black Coffee,Beverages,Quamba,37,94,76,15,94
+Bread Flour,Grains & Pulses,Bubblebox,97,41,68,1.5,35
+Feta Cheese,Dairy,Rhynyx,98,77,7,7,92
+Kiwi,Fruits & Vegetables,Zooveo,37,8,50,6,47
+Digestive Biscuit,Bakery,BlogXS,97,99,96,4,57
+Arabica Coffee,Beverages,Mynte,97,77,99,20,74
+Lemon,Fruits & Vegetables,Flashspan,90,92,56,2.5,71
+Arabica Coffee,Beverages,Youspan,46,31,89,20,59
+Broccoli,Fruits & Vegetables,Jetpulse,40,8,98,4,86
+Kale,Fruits & Vegetables,No_Name,77,52,28,4,48
+Bread Flour,Grains & Pulses,Skyndu,62,79,23,1.5,32
+Herbal Tea,Beverages,No_Name,59,17,1,30,69
+Blueberries,Fruits & Vegetables,Linklinks,23,38,54,10,40
+Digestive Biscuit,Bakery,Dynabox,39,16,57,4,98
+Gouda Cheese,Dairy,No_Name,68,29,31,7,53
+Almond Flour,Grains & Pulses,Eimbee,75,46,75,9.5,43
+Chocolate Biscuit,Bakery,Trunyx,96,16,48,5,45
+Haddock,Seafood,Buzzdog,17,38,93,9,100
+Egg (Duck),Dairy,No_Name,23,38,25,1,84
+Peach,Fruits & Vegetables,Oyoloo,15,27,21,4,37
+Mackerel,Seafood,Janyx,71,7,6,7.5,52
+Egg (Goose),Dairy,Dynava,97,26,15,2.5,33
+Zucchini,Fruits & Vegetables,Katz,29,18,86,2.5,53
+Bell Pepper,Fruits & Vegetables,Eimbee,46,64,17,4.6,96
+Cheese,Dairy,Jaxspan,76,15,99,9.5,60
+Zucchini,Fruits & Vegetables,Jaxspan,59,91,24,2.5,54
+Kiwi,Fruits & Vegetables,No_Name,28,27,22,6,70
+Coconut,Fruits & Vegetables,No_Name,19,47,25,5,96
+Butter,Dairy,No_Name,85,28,21,3,45
+Bread Flour,Grains & Pulses,Roomm,57,63,41,1.5,53
+Broccoli,Fruits & Vegetables,Buzzster,95,29,28,4,52
+Sushi Rice,Grains & Pulses,Meembee,84,69,77,4.5,39
+Rice Flour,Grains & Pulses,Topicblab,31,32,69,2,38
+Pear,Fruits & Vegetables,Gigashots,41,52,75,4.5,57
+Feta Cheese,Dairy,No_Name,97,57,84,7,95
+Milk,Dairy,No_Name,43,88,33,1,84
+Palm Oil,Oils & Fats,Fivebridge,74,4,67,1.8,31
+Bread Flour,Grains & Pulses,Zava,70,96,92,1.5,27
+Cheese,Dairy,Twitterbeat,69,53,32,9.2,28
+Carrot,Fruits & Vegetables,No_Name,67,68,50,1.5,67
+Short Grain Rice,Grains & Pulses,Photobean,18,62,2,3,61
+Arabica Coffee,Beverages,Chatterpoint,22,89,25,21,30
+Grapes,Fruits & Vegetables,No_Name,88,99,41,5.5,93
+Tilapia,Seafood,InnoZ,78,75,3,7,63
+Olive Oil,Oils & Fats,Fliptune,83,52,32,6,47
+Robusta Coffee,Beverages,Demivee,42,88,17,10.5,34
+Peas,Fruits & Vegetables,Skipfire,49,46,8,3,82
+Brown Rice,Grains & Pulses,No_Name,17,88,41,2.5,45
+Buttermilk,Dairy,No_Name,52,64,54,2.4,21
+Mushrooms,Fruits & Vegetables,Demivee,79,45,39,6,55
+Palm Oil,Oils & Fats,Buzzshare,35,41,84,1.8,62
+Cucumber,Fruits & Vegetables,Flashset,76,11,15,1.8,22
+Swiss Cheese,Dairy,Feedmix,93,8,51,8,93
+Halibut,Seafood,Jaxspan,40,81,78,20,39
+Trout,Seafood,No_Name,19,94,17,11.5,96
+Vegetable Oil,Oils & Fats,No_Name,70,96,21,2,100
+Digestive Biscuit,Bakery,Dabvine,90,52,50,4,63
+Digestive Biscuit,Bakery,Devshare,77,79,65,4,62
+Apricot,Fruits & Vegetables,No_Name,38,22,71,5,33
+Tilapia,Seafood,Jamia,93,25,23,7,72
+Evaporated Milk,Dairy,No_Name,23,100,77,2,63
+Green Tea,Beverages,Livepath,51,1,61,7.6,96
+Heavy Cream,Dairy,No_Name,57,62,72,4,23
+Papaya,Fruits & Vegetables,Demivee,59,74,100,4.5,63
+Blueberries,Fruits & Vegetables,Kayveo,89,15,22,10,79
+Blueberries,Fruits & Vegetables,Kamba,53,98,25,10,55
+Plum,Fruits & Vegetables,Skajo,11,56,62,3.9,40
+Yogurt,Dairy,No_Name,59,27,63,1.75,92
+Onion,Fruits & Vegetables,Oba,34,29,65,2,90
+Tuna,Seafood,Thoughtstorm,25,75,27,18,31
+Anchovies,Seafood,Zoonder,81,22,20,10,95
+Apple,Fruits & Vegetables,No_Name,81,74,45,3.5,42
+Watermelon,Fruits & Vegetables,Topicblab,71,4,37,3,81
+Cauliflower,Fruits & Vegetables,No_Name,52,22,37,2.5,56
+Greek Yogurt,Dairy,Avamba,26,54,90,3,25
+Haddock,Seafood,Feedfish,84,8,54,9,60
+Blueberries,Fruits & Vegetables,Eidel,28,86,44,10,48
+Strawberries,Fruits & Vegetables,Lazz,94,77,89,6,40
+Kiwi,Fruits & Vegetables,Talane,47,75,53,6,70
+Coconut Sugar,Grains & Pulses,Bubblebox,20,51,21,5,71
+Tomato,Fruits & Vegetables,No_Name,84,20,58,2.5,86
+Cheese,Dairy,Mydeo,100,31,43,9,88
+Milk,Dairy,BlogXS,74,90,26,1,24
+Green Coffee,Beverages,No_Name,27,12,93,12,88
+Eggplant,Fruits & Vegetables,Mybuzz,91,55,94,3,42
+Grapes,Fruits & Vegetables,Rhynoodle,82,21,85,5.5,39
+Bread Flour,Grains & Pulses,Realblab,84,91,86,1.5,83
+Halibut,Seafood,Linktype,18,46,26,20,57
+Sourdough Bread,Bakery,Avamba,12,59,62,4.50,75
+Black Rice,Grains & Pulses,Voomm,85,4,75,7.13,95
+Butter Biscuit,Bakery,Vipe,33,60,67,7.13,20
+Tilapia,Seafood,Flipopia,59,59,10,7.14,57
+Grapes,Fruits & Vegetables,Jabbersphere,22,69,87,7.14,34
+Gouda Cheese,Dairy,Rhyloo,67,79,98,7.15,73
+Cheese,Dairy,No_Name,78,24,31,7.15,60
+Lemon,Fruits & Vegetables,Vimbo,72,32,80,7.16,25
+Heavy Cream,Dairy,Oyoyo,63,48,22,7.16,21
+White Bread,Bakery,Tagfeed,30,91,34,7.17,97
+Arabica Coffee,Beverages,No_Name,36,64,63,7.17,91
+Grapes,Fruits & Vegetables,Camimbo,88,27,92,7.18,57
+Banana,Fruits & Vegetables,No_Name,95,25,91,7.18,87
+Broccoli,Fruits & Vegetables,Skilith,30,59,76,7.18,61
+Green Beans,Fruits & Vegetables,Omba,31,55,5,7.19,71
+Cod,Seafood,No_Name,16,20,45,7.19,81
+White Sugar,Grains & Pulses,Skyba,14,16,93,7.2,39
+Tomato,Fruits & Vegetables,Shuffledrive,44,67,15,7.2,82
+Long Grain Rice,Grains & Pulses,Yodoo,69,82,58,7.21,34
+Long Grain Rice,Grains & Pulses,Gigashots,71,10,49,7.21,66
+Carrot,Fruits & Vegetables,Skynoodle,92,39,50,7.22,30
+Peanut Oil,Oils & Fats,Babblestorm,49,17,54,7.22,45
+Pomegranate,Fruits & Vegetables,Innojam,52,8,37,7.23,38
+Egg (Turkey),Dairy,Gigabox,56,97,29,7.23,82
+Strawberries,Fruits & Vegetables,Yombu,16,23,76,7.23,50
+Zucchini,Fruits & Vegetables,Trudeo,52,79,87,7.24,36
+Trout,Seafood,Browsezoom,91,68,80,7.24,81
+Mango,Fruits & Vegetables,Meezzy,58,58,28,7.25,85
+Halibut,Seafood,Wikibox,47,29,70,7.25,61
+Rye Bread,Bakery,Kwilith,50,56,63,7.26,70
+Sour Cream,Dairy,Babblestorm,43,73,14,7.26,59
+Cheddar Cheese,Dairy,Jabbersphere,68,60,21,7.27,79
+Egg (Turkey),Dairy,DabZ,19,100,83,7.27,66
+Swiss Cheese,Dairy,No_Name,70,84,72,7.28,71
+Eggplant,Fruits & Vegetables,Tanoodle,97,20,72,7.28,29
+Sunflower Oil,Oils & Fats,Voolith,87,24,19,7.28,83
+White Tea,Beverages,Viva,58,81,66,7.29,85
+Coconut,Fruits & Vegetables,Eamia,16,53,12,7.29,21
+Basmati Rice,Grains & Pulses,Kanoodle,15,49,40,7.3,68
+Bell Pepper,Fruits & Vegetables,Leenti,75,85,27,7.31,26
+Vanilla Biscuit,Bakery,No_Name,80,61,23,7.31,63
+Orange,Fruits & Vegetables,Camido,84,95,22,7.32,48
+Eggplant,Fruits & Vegetables,Ainyx,17,3,33,7.32,49
+Evaporated Milk,Dairy,Gigabox,64,31,91,7.33,85
+Whipped Cream,Dairy,Yakitri,76,81,85,7.33,65
+Sesame Oil,Oils & Fats,Thoughtbeat,77,95,82,7.33,29
+Cream,Dairy,Thoughtblab,18,14,77,7.34,78
+Coconut Sugar,Grains & Pulses,Tagchat,51,55,76,7.34,21
+Asparagus,Fruits & Vegetables,Realmix,68,12,73,7.35,84
+Wild Rice,Grains & Pulses,Devbug,46,6,64,7.35,63
+Long Grain Rice,Grains & Pulses,Meevee,98,40,93,7.36,30
+Onion,Fruits & Vegetables,Edgewire,50,20,74,7.36,30
+Salmon,Seafood,No_Name,88,83,42,7.37,61
+Potato,Fruits & Vegetables,Edgewire,26,16,69,7.37,64
+Green Coffee,Beverages,Oozz,43,38,63,7.38,88
+Powdered Sugar,Grains & Pulses,Devbug,46,20,30,7.38,54
+Cauliflower,Fruits & Vegetables,Meevee,19,73,60,7.38,70
+Kale,Fruits & Vegetables,Brightbean,61,100,94,7.39,76
+Garlic,Fruits & Vegetables,Twiyo,43,40,30,7.39,95
+Green Tea,Beverages,Fiveclub,80,54,21,7.4,81
+Green Tea,Beverages,Skalith,34,47,99,7.4,97
+Green Tea,Beverages,Thoughtsphere,88,50,88,7.41,78
+Cottage Cheese,Dairy,Divape,89,42,76,7.41,94
+Wild Rice,Grains & Pulses,Wordpedia,26,21,47,7.42,40
+Pear,Fruits & Vegetables,Lazz,26,95,36,7.42,92
+Peach,Fruits & Vegetables,Linktype,37,38,24,7.43,93
+Yogurt,Dairy,Browsecat,76,98,41,7.43,62
+Feta Cheese,Dairy,Demivee,80,43,80,7.43,64
+Sweet Potato,Fruits & Vegetables,Photospace,100,3,32,7.44,98
+Butter,Dairy,Meembee,21,87,67,7.44,64
+Coconut Oil,Oils & Fats,No_Name,33,78,79,7.45,60
+Apple,Fruits & Vegetables,Chatterpoint,43,63,99,7.45,39
+Mushrooms,Fruits & Vegetables,Izio,34,1,79,7.46,58
+Mackerel,Seafood,No_Name,82,25,94,7.46,66
+Whole Wheat Bread,Bakery,No_Name,17,63,3,7.47,93
+Sushi Rice,Grains & Pulses,Talane,36,81,54,7.47,73
+Cod,Seafood,Roombo,65,79,52,7.48,56
+Papaya,Fruits & Vegetables,Avaveo,45,28,6,7.48,35
+Egg (Goose),Dairy,Abatz,35,78,68,7.48,95
+Bread Flour,Grains & Pulses,Oloo,96,83,50,7.49,81
+Coconut,Fruits & Vegetables,Katz,56,75,13,7.49,42
+Ricotta Cheese,Dairy,Shufflester,49,94,18,7.5,38
+Raw Sugar,Grains & Pulses,Cogilith,100,10,89,7.5,76
+Haddock,Seafood,No_Name,30,81,99,7.51,99
+Papaya,Fruits & Vegetables,Brightbean,20,91,12,7.51,35
+Sesame Oil,Oils & Fats,Rhycero,85,15,16,7.52,46
+Green Beans,Fruits & Vegetables,Izio,86,90,39,7.52,98
+Sourdough Bread,Bakery,Plajo,65,79,49,7.53,100
+Cottage Cheese,Dairy,Feedfire,67,98,92,7.53,35
+Ricotta Cheese,Dairy,Fliptune,88,4,79,7.54,23
+Robusta Coffee,Beverages,Devpulse,14,77,78,7.54,32
+Tilapia,Seafood,Vipe,85,92,66,7.54,54
+Feta Cheese,Dairy,Thoughtstorm,74,65,5,7.55,21
+Cheddar Cheese,Dairy,Oyoba,21,28,72,7.55,69
+Butter Biscuit,Bakery,Quatz,22,24,94,7.56,47
+Ricotta Cheese,Dairy,Thoughtblab,91,14,99,7.56,50
+Multigrain Bread,Bakery,Devpulse,85,57,25,7.57,30
+Peas,Fruits & Vegetables,Photolist,12,28,11,7.57,46
+Pomegranate,Fruits & Vegetables,Browsebug,43,65,66,7.58,78
+Yogurt,Dairy,Eimbee,92,92,28,7.58,50
+Watermelon,Fruits & Vegetables,Digitube,23,85,94,7.59,92
+Egg (Duck),Dairy,Blogtags,77,1,41,7.59,58
+Sweet Potato,Fruits & Vegetables,Skibox,65,10,81,7.59,71
+Banana,Fruits & Vegetables,Skinix,82,29,62,7.6,77
+Swiss Cheese,Dairy,Janyx,20,17,71,7.6,50
+Cheddar Cheese,Dairy,Wordify,31,65,94,7.61,63
+Butter,Dairy,Shuffletag,36,75,35,7.61,26
+Black Tea,Beverages,Ozu,59,20,17,7.62,45
+Long Grain Rice,Grains & Pulses,Flashspan,11,10,80,7.62,48
+Black Coffee,Beverages,No_Name,24,77,32,7.63,80
+Haddock,Seafood,Kwimbee,75,80,87,7.63,49
+Black Coffee,Beverages,Youfeed,11,72,5,7.64,89
+Anchovies,Seafood,No_Name,60,64,36,7.64,34
+Lemon,Fruits & Vegetables,Yata,91,6,37,7.64,38
+Egg (Goose),Dairy,Youopia,43,78,85,7.65,48
+Bread Flour,Grains & Pulses,Demizz,25,60,36,7.65,31
+Parmesan Cheese,Dairy,Rhyloo,96,9,57,7.66,78
+Mackerel,Seafood,Twitterworks,30,29,70,7.66,80
+Arborio Rice,Grains & Pulses,Dabtype,56,4,74,7.67,61
+Whole Wheat Bread,Bakery,Quire,91,71,17,7.67,74
+White Sugar,Grains & Pulses,Topicshots,27,64,78,7.68,57
+Buttermilk,Dairy,Zoombox,28,90,70,7.68,76
+Sour Cream,Dairy,Chatterbridge,92,67,51,7.69,23
+Tuna,Seafood,Youspan,37,33,80,7.69,27
+Powdered Sugar,Grains & Pulses,Kazu,28,24,97,7.69,82
+Tilapia,Seafood,Vinder,30,42,8,7.7,48
+Arabica Coffee,Beverages,Feedfire,98,83,5,7.7,39
+Lemon,Fruits & Vegetables,Livetube,65,88,20,7.71,89
+Rice Flour,Grains & Pulses,Zava,42,3,21,7.71,35
+Lemon,Fruits & Vegetables,Avavee,63,60,54,7.72,33
+Broccoli,Fruits & Vegetables,Jabbersphere,85,54,18,7.72,85
+Egg (Duck),Dairy,Yombu,44,75,72,7.73,96
+Plum,Fruits & Vegetables,Feedspan,26,69,90,7.73,47
+Coconut Sugar,Grains & Pulses,Topiclounge,49,59,73,7.74,93
+Pomegranate,Fruits & Vegetables,Meeveo,59,79,87,7.74,47
+Raw Sugar,Grains & Pulses,Livepath,19,81,33,7.74,39
+Eggplant,Fruits & Vegetables,Roombo,47,41,63,7.75,39
+Grapes,Fruits & Vegetables,Edgewire,98,62,97,7.75,59
+Watermelon,Fruits & Vegetables,Innotype,51,72,85,7.76,23
+Anchovies,Seafood,Flipopia,100,99,8,7.76,54
+Yogurt,Dairy,Jaxnation,55,50,56,7.77,62
+Whipped Cream,Dairy,Devcast,14,87,8,7.77,90
+Egg (Quail),Dairy,Vinte,29,33,88,7.78,50
+Chocolate Biscuit,Bakery,Yodo,100,1,26,7.78,47
+Ricotta Cheese,Dairy,Janyx,49,28,74,7.79,70
+Vegetable Oil,Oils & Fats,Abata,75,61,19,7.79,79
+Heavy Cream,Dairy,Youbridge,82,12,94,7.79,69
+Cottage Cheese,Dairy,Feedmix,68,82,58,7.8,90
+Corn Oil,Oils & Fats,Twinte,70,96,85,7.8,34
+Salmon,Seafood,Innojam,49,48,62,7.81,96
+Mackerel,Seafood,Kazio,89,26,36,7.81,48
+Cheese,Dairy,Omba,88,53,44,7.82,56
+Green Tea,Beverages,Zoovu,39,88,100,7.82,28
+Cauliflower,Fruits & Vegetables,Dynabox,87,91,94,7.83,47
+Oatmeal Biscuit,Bakery,Vidoo,93,50,43,7.83,76
+Egg (Turkey),Dairy,Browsedrive,23,21,59,7.84,81
+Vanilla Biscuit,Bakery,Linkbridge,94,34,21,7.84,74
+Digestive Biscuit,Bakery,Kanoodle,38,43,91,7.84,72
+Evaporated Milk,Dairy,Buzzshare,11,9,65,7.85,48
+White Tea,Beverages,Rhycero,60,27,58,7.85,43
+Avocado Oil,Oils & Fats,No_Name,50,36,81,7.86,27
+Egg (Goose),Dairy,Skalith,90,3,49,7.86,51
+Arborio Rice,Grains & Pulses,Talane,86,80,80,7.87,22
+Cauliflower,Fruits & Vegetables,Jabberstorm,86,66,24,7.87,30
+Almond Flour,Grains & Pulses,Pixonyx,54,17,90,7.88,60
+Watermelon,Fruits & Vegetables,Jabbersphere,27,64,43,7.88,70
+Onion,Fruits & Vegetables,Skyndu,68,10,29,7.89,37
+Sourdough Bread,Bakery,Meevee,22,60,73,7.89,62
+Cheese,Dairy,Eimbee,50,14,6,7.9,60
+Bell Pepper,Fruits & Vegetables,Tagpad,26,12,43,7.9,73
+White Tea,Beverages,Aivee,62,31,24,7.91,89
+Broccoli,Fruits & Vegetables,Yamia,79,72,6,7.91,67
+Peach,Fruits & Vegetables,Ainyx,73,90,77,7.92,75
+Carrot,Fruits & Vegetables,Gevee,18,50,77,7.92,44
+Kale,Fruits & Vegetables,Dabshots,79,74,87,7.93,80
+Arabica Coffee,Beverages,Voonyx,23,13,15,7.93,31
+Milk,Dairy,Jabbercube,18,64,86,7.94,73
+Sunflower Oil,Oils & Fats,Photofeed,24,35,14,7.94,91
+Watermelon,Fruits & Vegetables,Eidel,53,41,30,7.94,24
+Yogurt,Dairy,Skinte,85,83,13,7.95,49
+Sesame Oil,Oils & Fats,Miboo,15,34,57,7.95,49
+Anchovies,Seafood,Quatz,66,49,41,7.96,27
+Corn Oil,Oils & Fats,Youbridge,17,63,66,7.96,23
+Grapes,Fruits & Vegetables,Rhynyx,13,61,77,7.97,42
+Digestive Biscuit,Bakery,Eimbee,34,49,27,7.97,78
+Swiss Cheese,Dairy,Skiptube,85,89,41,7.98,68
+Cabbage,Fruits & Vegetables,Meevee,12,95,49,7.98,25
+Oatmeal Biscuit,Bakery,Trunyx,82,6,53,7.99,21
+Sourdough Bread,Bakery,Zoomlounge,71,97,44,7.99,58
+Mozzarella Cheese,Dairy,Blogspan,58,17,26,7.99,62
+Rice Flour,Grains & Pulses,Photobug,15,76,81,8,90
+Pineapple,Fruits & Vegetables,Quinu,68,25,16,8,25
+White Sugar,Grains & Pulses,Wordtune,13,32,79,8.01,38
+Sesame Oil,Oils & Fats,Dabtype,45,7,58,8.01,86
+Egg (Goose),Dairy,Babblestorm,40,22,74,8.02,76
+Black Coffee,Beverages,Aimbu,62,23,25,8.02,34
+Peanut Oil,Oils & Fats,Pixoboo,79,3,36,8.03,46
+Peas,Fruits & Vegetables,Meedoo,75,91,68,8.03,96
+Almond Flour,Grains & Pulses,Trudoo,76,8,2,8.04,24
+Canola Oil,Oils & Fats,Realcube,96,51,40,8.04,61
+Canola Oil,Oils & Fats,Kimia,69,17,27,8.04,79
+Butter,Dairy,Jayo,48,71,86,8.05,95
+Cream,Dairy,Riffpedia,82,3,82,8.05,48
+Zucchini,Fruits & Vegetables,Babblestorm,43,21,31,8.06,22
+Green Coffee,Beverages,Skyndu,90,68,74,8.06,81
+Milk,Dairy,Centimia,13,39,98,8.07,46
+Cabbage,Fruits & Vegetables,Skivee,62,79,95,8.07,34
+Coconut Sugar,Grains & Pulses,Lazz,17,85,74,8.08,76
+Sesame Oil,Oils & Fats,Skilith,100,86,94,8.08,77
+All-Purpose Flour,Grains & Pulses,Wikibox,54,69,68,8.09,77
+Whipped Cream,Dairy,Skippad,98,24,4,8.09,89
+Herbal Tea,Beverages,Dynazzy,20,9,12,8.09,46
+Haddock,Seafood,Zoovu,43,7,63,8.1,66
+Green Coffee,Beverages,Photobean,29,91,48,8.1,28
+Grapes,Fruits & Vegetables,Flipopia,37,45,62,8.11,34
+Cheddar Cheese,Dairy,Oyonder,85,28,32,8.11,57
+Basmati Rice,Grains & Pulses,Skidoo,26,67,46,8.12,54
+White Tea,Beverages,Brightbean,91,78,61,8.12,63
+Ricotta Cheese,Dairy,Skimia,50,46,38,8.13,88
+Trout,Seafood,Izio,98,65,76,8.13,62
+Egg (Duck),Dairy,Katz,37,53,61,8.14,90
+White Bread,Bakery,Devpoint,78,68,68,8.14,89
+Cauliflower,Fruits & Vegetables,Realpoint,48,27,73,8.14,52
+Arabica Coffee,Beverages,Rhyzio,74,10,74,8.15,100
+Pineapple,Fruits & Vegetables,Gigashots,18,7,58,8.15,88
+Cauliflower,Fruits & Vegetables,Photobug,95,66,69,8.16,92
+Egg (Turkey),Dairy,Quinu,39,93,57,8.16,26
+Peas,Fruits & Vegetables,Edgeclub,48,72,55,8.17,51
+Strawberries,Fruits & Vegetables,Meevee,58,15,87,8.17,52
+Greek Yogurt,Dairy,Shufflester,39,55,39,8.18,47
+Papaya,Fruits & Vegetables,Ntag,84,28,29,8.18,54
+Sardines,Seafood,Linklinks,30,55,4,8.19,56
+Sesame Oil,Oils & Fats,Yotz,14,84,15,8.19,51
+Powdered Sugar,Grains & Pulses,Skidoo,21,15,27,8.19,37
+Jasmine Rice,Grains & Pulses,Topdrive,17,19,74,8.2,58
+Cauliflower,Fruits & Vegetables,Cogilith,34,92,26,8.2,28
+Jasmine Rice,Grains & Pulses,Babblestorm,56,48,82,8.21,71
+Plum,Fruits & Vegetables,Devcast,64,71,69,8.21,60
+Grapes,Fruits & Vegetables,Aibox,87,62,2,8.22,22
+Papaya,Fruits & Vegetables,Kwinu,24,25,52,8.22,24
+Sushi Rice,Grains & Pulses,Photobug,47,1,60,8.23,32
+Digestive Biscuit,Bakery,Quatz,61,8,45,8.23,73
+Rye Bread,Bakery,Realblab,48,2,16,8.24,27
+Chocolate Biscuit,Bakery,Photobean,37,96,82,8.24,35
+Arabica Coffee,Beverages,Rhycero,45,36,97,8.24,36
+Bread Flour,Grains & Pulses,Feedfire,87,97,28,8.25,58
+Almond Flour,Grains & Pulses,Trilia,37,47,34,8.25,38
+Robusta Coffee,Beverages,Katz,59,62,57,8.26,90
+Yogurt,Dairy,Devpulse,63,12,82,8.27,56
+Grapes,Fruits & Vegetables,Layo,38,72,39,8.27,59
+Mackerel,Seafood,Dabfeed,76,21,3,8.28,31
+Egg (Quail),Dairy,Skimia,34,94,69,8.28,96
+Eggplant,Fruits & Vegetables,Blogpad,25,62,11,8.29,57
+Egg (Turkey),Dairy,Twimm,86,16,37,8.29,34
+Oatmeal Biscuit,Bakery,Kwimbee,41,21,47,8.29,50
+Cauliflower,Fruits & Vegetables,Avamm,77,54,10,8.3,64
+Egg (Duck),Dairy,Dynazzy,41,61,69,8.3,30
+Orange,Fruits & Vegetables,Oyondu,44,8,52,8.31,42
+Avocado Oil,Oils & Fats,Dabtype,53,89,100,8.31,22
+Chocolate Biscuit,Bakery,Chatterbridge,68,29,100,8.32,70
+Swiss Cheese,Dairy,Centidel,96,34,57,8.32,71
+Garlic,Fruits & Vegetables,Layo,33,4,31,8.33,46
+Cauliflower,Fruits & Vegetables,Yakitri,33,89,15,8.33,90
+Watermelon,Fruits & Vegetables,Trupe,90,17,17,8.34,82
+Brown Rice,Grains & Pulses,Livetube,31,29,57,8.34,25
+Asparagus,Fruits & Vegetables,Yabox,92,3,81,8.34,62
+Cauliflower,Fruits & Vegetables,Skinix,66,31,18,8.35,85
+Anchovies,Seafood,Mybuzz,83,17,39,8.35,33
+Mango,Fruits & Vegetables,Wordtune,84,9,46,8.36,30
+Haddock,Seafood,Yabox,76,57,78,8.36,52
+Pomegranate,Fruits & Vegetables,Meevee,26,1,9,8.37,82
+Green Coffee,Beverages,Lajo,61,31,100,8.37,95
+Evaporated Milk,Dairy,Realcube,15,75,78,8.38,71
+Apricot,Fruits & Vegetables,Topiczoom,73,83,74,8.38,87
+Whole Wheat Flour,Grains & Pulses,Pixonyx,41,76,47,8.39,50
+Avocado Oil,Oils & Fats,Dabjam,14,75,10,8.39,65
+Asparagus,Fruits & Vegetables,Buzzbean,80,6,92,8.4,26
+Eggplant,Fruits & Vegetables,Vimbo,49,89,65,8.4,37
+Grapes,Fruits & Vegetables,Riffwire,25,74,100,8.41,41
+Sesame Oil,Oils & Fats,Shuffledrive,39,78,97,8.41,54
+Orange,Fruits & Vegetables,Flashdog,94,58,17,8.42,57
+Sardines,Seafood,Vinder,11,17,59,8.42,69
+Peanut Oil,Oils & Fats,Twitterwire,21,52,80,8.43,49
+Kiwi,Fruits & Vegetables,Topdrive,38,91,94,8.43,53
+Palm Oil,Oils & Fats,Browsetype,58,23,66,8.44,82
+Plum,Fruits & Vegetables,Lajo,85,16,74,8.44,58
+Cauliflower,Fruits & Vegetables,Vinder,63,62,98,8.44,62
+Coconut Oil,Oils & Fats,Brightdog,54,86,69,8.45,29
+Cherry,Fruits & Vegetables,No_Name,30,25,11,8.45,42
+Cauliflower,Fruits & Vegetables,Tanoodle,57,25,98,8.46,78
+Vegetable Oil,Oils & Fats,Browseblab,18,72,71,8.46,25
+Tuna,Seafood,Tagcat,16,34,89,8.47,35
+Buttermilk,Dairy,Twitterbeat,39,80,68,8.47,46
+Lemon,Fruits & Vegetables,Centimia,59,82,69,8.48,30
+Salmon,Seafood,Mycat,79,28,4,8.48,42
+Egg (Quail),Dairy,Ntags,78,61,6,8.49,49
+Sushi Rice,Grains & Pulses,Tekfly,22,10,53,8.49,64
+Egg (Chicken),Dairy,Realfire,10,17,70,8.49,100
+Arborio Rice,Grains & Pulses,Geba,34,32,22,8.5,42
+Heavy Cream,Dairy,Yadel,74,62,6,8.5,65
+Sushi Rice,Grains & Pulses,Latz,10,11,29,8.51,29
+Basmati Rice,Grains & Pulses,Yodo,11,87,64,8.51,29
+Grapes,Fruits & Vegetables,Gabspot,99,68,1,8.52,59
+Swiss Cheese,Dairy,Meeveo,64,14,44,8.52,53
+Pear,Fruits & Vegetables,Cogidoo,58,55,5,8.53,62
+Corn Oil,Oils & Fats,Centizu,26,100,13,8.53,45
+Raw Sugar,Grains & Pulses,Flipopia,72,72,68,8.54,39
+Mozzarella Cheese,Dairy,Buzzdog,36,82,85,8.54,27
+Mushrooms,Fruits & Vegetables,Yakijo,24,21,4,8.54,85
+Onion,Fruits & Vegetables,Voolith,16,75,42,8.55,22
+Banana,Fruits & Vegetables,Edgetag,39,19,18,7.60,58
+Zucchini,Fruits & Vegetables,Quimm,89,56,74,8.55,27
+Cherry,Fruits & Vegetables,Jabbersphere,57,82,59,8.56,44
+Herbal Tea,Beverages,Wikido,61,22,98,8.56,90
+Short Grain Rice,Grains & Pulses,Tanoodle,56,28,76,8.57,93
+Cream,Dairy,Bubblebox,21,24,2,8.57,87
+Grapes,Fruits & Vegetables,Thoughtmix,59,29,100,8.58,74
+Green Coffee,Beverages,Linklinks,20,68,20,8.58,38
+Rye Bread,Bakery,Jetwire,99,6,88,8.59,49
+Green Tea,Beverages,Vidoo,24,27,35,8.59,49
+Sushi Rice,Grains & Pulses,Quire,78,94,7,8.59,69
+Egg (Duck),Dairy,Fivebridge,52,31,18,8.6,77
+Spinach,Fruits & Vegetables,Eabox,45,70,98,8.6,25
+Apricot,Fruits & Vegetables,LiveZ,89,35,19,8.61,49
+Kiwi,Fruits & Vegetables,Vitz,63,57,11,8.61,20
+Black Rice,Grains & Pulses,Shuffletag,49,3,7,8.62,75
+Green Tea,Beverages,Photobug,26,59,54,8.62,92
+Egg (Quail),Dairy,Meejo,93,68,71,8.63,30
+Heavy Cream,Dairy,Talane,74,60,27,8.64,99
+Black Tea,Beverages,Devshare,19,78,90,8.64,72
+Short Grain Rice,Grains & Pulses,Quatz,64,97,91,8.64,48
+Bell Pepper,Fruits & Vegetables,Zava,49,93,15,8.65,52
+Parmesan Cheese,Dairy,Tagpad,99,10,88,8.65,69
+Buttermilk,Dairy,Trilia,60,1,42,8.66,42
+Cabbage,Fruits & Vegetables,Zoombox,90,1,40,8.66,52
+Haddock,Seafood,Snaptags,79,53,12,8.67,45
+Egg (Chicken),Dairy,Topiclounge,22,58,2,8.67,33
+Brown Rice,Grains & Pulses,Quinu,51,47,6,8.68,53
+Arabica Coffee,Beverages,Yotz,65,63,41,8.68,28
+Whipped Cream,Dairy,Flashset,55,25,87,8.69,69
+White Rice,Grains & Pulses,Eimbee,18,86,20,8.69,64
+Parmesan Cheese,Dairy,Skidoo,37,3,45,8.69,39
+Salmon,Seafood,Abata,88,40,29,8.7,96
+Pineapple,Fruits & Vegetables,Brainverse,20,51,33,8.7,80
+Bread Flour,Grains & Pulses,Twitterwire,99,54,71,8.71,80
+Asparagus,Fruits & Vegetables,Zoomzone,46,88,20,8.71,59
+Wild Rice,Grains & Pulses,Topdrive,19,77,66,8.72,62
+Yogurt,Dairy,Wordpedia,12,83,93,8.72,22
+Buttermilk,Dairy,Twitterlist,69,98,89,8.73,29
+Egg (Duck),Dairy,Skipfire,63,38,77,8.73,23
+Asparagus,Fruits & Vegetables,Voonder,78,16,37,8.74,25
+White Bread,Bakery,Skivee,72,20,71,8.74,87
+Wild Rice,Grains & Pulses,Babbleopia,58,24,25,8.74,75
+Egg (Goose),Dairy,Einti,88,22,61,8.75,54
+White Rice,Grains & Pulses,Wikibox,54,53,33,8.75,94
+Powdered Sugar,Grains & Pulses,Aivee,64,10,100,8.76,97
+Milk,Dairy,Jatri,12,54,48,8.76,31
+Mango,Fruits & Vegetables,Jaxnation,61,14,49,8.77,74
+Oatmeal Biscuit,Bakery,Skajo,28,62,81,8.77,28
+Spinach,Fruits & Vegetables,Feedfish,23,6,40,8.78,95
+Blueberries,Fruits & Vegetables,No_Name,87,51,67,8.78,55
+Robusta Coffee,Beverages,Yozio,59,31,3,8.79,48
+Watermelon,Fruits & Vegetables,Dabjam,13,88,11,8.79,100
+Pomegranate,Fruits & Vegetables,Browsetype,81,87,15,8.79,94
+White Bread,Bakery,Meevee,61,77,45,8.8,51
+Carrot,Fruits & Vegetables,Linkbridge,80,91,36,8.8,81
+Brown Rice,Grains & Pulses,Avamm,39,57,54,8.81,77
+Cabbage,Fruits & Vegetables,Rooxo,69,21,68,8.81,36
+Egg (Goose),Dairy,Gabvine,60,43,32,8.82,77
+Sour Cream,Dairy,Yodel,22,43,3,8.82,45
+Almond Flour,Grains & Pulses,Voonte,79,47,51,8.83,83
+Broccoli,Fruits & Vegetables,Rhyzio,47,63,86,8.83,76
+Jasmine Rice,Grains & Pulses,Tagcat,20,25,73,8.84,78
+Gouda Cheese,Dairy,Gigazoom,41,22,11,8.84,86
+Tilapia,Seafood,Plajo,46,80,88,8.84,62
+Palm Oil,Oils & Fats,Skipstorm,67,57,36,8.85,78
+Arborio Rice,Grains & Pulses,Feednation,51,19,96,8.85,73
+White Sugar,Grains & Pulses,Cogibox,42,12,28,8.86,80
+Sesame Oil,Oils & Fats,Divanoodle,85,86,21,8.86,78
+Sunflower Oil,Oils & Fats,Skibox,23,43,75,8.87,91
+Bell Pepper,Fruits & Vegetables,Devcast,84,26,37,8.87,46
+Greek Yogurt,Dairy,Quaxo,28,38,23,8.88,48
+White Bread,Bakery,Mybuzz,62,49,38,8.88,42
+Egg (Goose),Dairy,Oba,65,94,4,8.89,66
+Lime,Fruits & Vegetables,Livefish,18,8,68,8.89,54
+Egg (Chicken),Dairy,Kaymbo,70,29,24,8.89,62
+Vegetable Oil,Oils & Fats,Yoveo,23,71,32,8.9,63
+Jasmine Rice,Grains & Pulses,Eimbee,26,83,24,8.9,75
+Robusta Coffee,Beverages,Skiptube,20,42,45,8.91,72
+Mozzarella Cheese,Dairy,Roodel,55,58,6,8.91,48
+Whole Wheat Flour,Grains & Pulses,Jaxworks,82,67,67,8.92,26
+Salmon,Seafood,Fanoodle,73,12,28,8.92,89
+White Tea,Beverages,Agivu,81,83,36,8.93,74
+Onion,Fruits & Vegetables,Wikizz,20,65,61,8.93,51
+Black Coffee,Beverages,Digitube,78,38,27,8.94,54
+Butter Biscuit,Bakery,Bluejam,84,58,28,8.94,51
+Coconut Oil,Oils & Fats,Bluejam,90,75,6,8.95,55
+Evaporated Milk,Dairy,Miboo,70,81,75,8.95,24
+Bell Pepper,Fruits & Vegetables,Fatz,90,22,20,8.96,81
+Lettuce,Fruits & Vegetables,Meemm,100,7,14,8.96,26
+Brown Rice,Grains & Pulses,Youtags,89,54,15,8.97,64
+Whole Wheat Flour,Grains & Pulses,Dabjam,38,43,28,8.97,34
+Rye Bread,Bakery,Kwideo,61,20,29,8.98,71
+Orange,Fruits & Vegetables,Oba,75,48,25,8.98,96
+Multigrain Bread,Bakery,Topicware,87,70,77,8.99,73
+Bread Flour,Grains & Pulses,Skaboo,71,77,30,8.99,34
+Green Beans,Fruits & Vegetables,BlogXS,19,92,41,9,51
+Coconut,Fruits & Vegetables,Eazzy,85,90,16,9,61
+Apple,Fruits & Vegetables,Omba,71,36,45,9.01,87
+Brown Rice,Grains & Pulses,Skipfire,44,48,77,9.01,67
+Rice Flour,Grains & Pulses,Livetube,25,95,71,9.02,24
+Peanut Oil,Oils & Fats,Devpulse,24,14,5,9.02,98
+Anchovies,Seafood,Skipfire,44,97,76,9.03,80
+Powdered Sugar,Grains & Pulses,Mybuzz,63,4,46,9.03,40
+Palm Oil,Oils & Fats,Dynabox,69,59,29,9.04,63
+Tuna,Seafood,Centimia,88,71,9,9.04,28
+Robusta Coffee,Beverages,Mymm,74,2,45,9.05,37
+Bell Pepper,Fruits & Vegetables,Jaxbean,98,43,9,9.05,86
+Egg (Chicken),Dairy,Meembee,22,19,4,9.05,88
+Apricot,Fruits & Vegetables,Fivebridge,55,96,40,9.06,23
+Ricotta Cheese,Dairy,Kwideo,96,80,20,9.06,94
+Feta Cheese,Dairy,Quaxo,91,7,64,9.07,32
+Digestive Biscuit,Bakery,Vimbo,40,91,24,9.07,28
+Salmon,Seafood,Buzzshare,52,46,12,9.08,43
+Lettuce,Fruits & Vegetables,Gigabox,22,22,65,9.08,62
+Black Rice,Grains & Pulses,Blognation,98,41,98,9.09,70
+Whole Wheat Flour,Grains & Pulses,Topicstorm,59,73,86,9.09,32
+Chocolate Biscuit,Bakery,Devcast,99,3,79,9.1,65
+Black Tea,Beverages,Jaloo,18,36,53,9.1,65
+Watermelon,Fruits & Vegetables,Jaxspan,58,12,99,9.1,71
+Black Rice,Grains & Pulses,BlogXS,30,34,96,9.11,61
+Papaya,Fruits & Vegetables,Twitterwire,97,97,71,9.11,53
+Egg (Goose),Dairy,Gigashots,50,93,37,9.12,78
+Cheddar Cheese,Dairy,LiveZ,70,96,35,9.12,63
+Blueberries,Fruits & Vegetables,Buzzbean,40,61,47,9.13,76
+Corn Oil,Oils & Fats,Shuffletag,75,23,34,9.13,100
+Strawberries,Fruits & Vegetables,Skimia,26,97,12,9.14,94
+Arabica Coffee,Beverages,Jetpulse,13,55,77,9.14,67
+Plum,Fruits & Vegetables,Yambee,11,58,32,9.15,99
+Salmon,Seafood,Kamba,98,67,49,9.15,21
+Broccoli,Fruits & Vegetables,Abatz,35,4,76,9.15,90
+Mackerel,Seafood,Wikido,45,56,64,9.16,35
+Kale,Fruits & Vegetables,Blogpad,47,22,69,9.16,26
+Sesame Oil,Oils & Fats,Tazz,89,66,28,9.17,39
+Black Coffee,Beverages,Brainverse,33,22,94,9.17,96
+Apricot,Fruits & Vegetables,Blognation,90,30,42,9.18,76
+Jasmine Rice,Grains & Pulses,Kwilith,44,26,60,9.18,63
+Wild Rice,Grains & Pulses,Podcat,41,56,12,9.19,93
+Potato,Fruits & Vegetables,Centimia,72,58,69,9.19,96
+Egg (Goose),Dairy,Skyble,72,58,52,9.2,36
+Black Coffee,Beverages,Skyndu,40,30,60,9.2,33
+Whole Wheat Bread,Bakery,Photobug,36,53,92,9.2,67
+Vegetable Oil,Oils & Fats,Digitube,51,87,86,9.21,24
+Black Coffee,Beverages,Tagpad,87,91,23,9.21,90
+Pear,Fruits & Vegetables,Roodel,79,37,98,9.22,33
+Tilapia,Seafood,Jabbercube,14,52,80,9.22,64
+Orange,Fruits & Vegetables,Demimbu,81,35,82,9.23,86
+Lime,Fruits & Vegetables,Shufflebeat,75,18,65,9.23,32
+Gouda Cheese,Dairy,Avaveo,48,12,62,9.24,59
+Onion,Fruits & Vegetables,Gabspot,50,68,90,9.24,40
+Haddock,Seafood,Eire,11,87,43,9.25,86
+Almond Flour,Grains & Pulses,Thoughtblab,74,22,91,9.25,24
+Tomato,Fruits & Vegetables,Fivebridge,11,10,60,9.25,93
+Heavy Cream,Dairy,Tambee,85,15,30,9.26,95
+Cauliflower,Fruits & Vegetables,Flashspan,57,43,46,9.26,87
+Lime,Fruits & Vegetables,Yata,75,56,57,9.27,63
+Egg (Turkey),Dairy,Katz,63,7,23,9.27,78
+White Tea,Beverages,Jazzy,35,20,42,9.28,53
+Cabbage,Fruits & Vegetables,Topdrive,24,32,17,9.28,55
+Jasmine Rice,Grains & Pulses,Topicware,53,26,3,9.29,100
+Butter Biscuit,Bakery,InnoZ,74,81,41,9.29,51
+Brown Rice,Grains & Pulses,Viva,79,38,67,9.3,43
+Bread Flour,Grains & Pulses,Dazzlesphere,54,78,81,9.3,41
+Palm Oil,Oils & Fats,Wordware,44,83,78,9.3,46
+Almond Flour,Grains & Pulses,Camido,77,19,31,9.31,27
+Apricot,Fruits & Vegetables,Skinix,42,61,52,9.31,86
+Sweet Potato,Fruits & Vegetables,Yodo,44,77,45,9.32,89
+Sour Cream,Dairy,Realblab,81,76,10,9.32,68
+Black Rice,Grains & Pulses,Zazio,92,48,22,9.33,38
+Salmon,Seafood,Avavee,78,68,86,9.33,47
+Heavy Cream,Dairy,Yodo,85,66,85,9.34,65
+Pomegranate,Fruits & Vegetables,Kwideo,65,69,4,9.34,80
+Olive Oil,Oils & Fats,Realmix,36,3,54,9.35,74
+Potato,Fruits & Vegetables,Thoughtbridge,26,63,88,9.35,84
+Sunflower Oil,Oils & Fats,Aibox,39,13,13,9.35,84
+White Sugar,Grains & Pulses,Twimm,39,83,21,9.36,73
+Cabbage,Fruits & Vegetables,Twitternation,83,61,4,9.36,35
+Cucumber,Fruits & Vegetables,Yabox,28,5,9,9.37,33
+Tuna,Seafood,Realmix,85,17,96,9.37,92
+Lime,Fruits & Vegetables,Roomm,76,39,15,9.38,77
+Tomato,Fruits & Vegetables,Thoughtbeat,100,64,62,9.38,84
+Pomegranate,Fruits & Vegetables,Teklist,17,45,44,9.39,37
+Anchovies,Seafood,Twitterbridge,51,35,95,9.39,80
+Grapes,Fruits & Vegetables,Centizu,54,88,43,9.4,81
+Sourdough Bread,Bakery,Gigashots,94,56,80,9.4,47
+Asparagus,Fruits & Vegetables,Vitz,34,95,18,9.4,41
+Herbal Tea,Beverages,Myworks,27,1,3,9.41,34
+All-Purpose Flour,Grains & Pulses,Pixonyx,50,42,20,9.41,87
+Almond Flour,Grains & Pulses,Skaboo,85,12,94,9.42,26
+Rice Flour,Grains & Pulses,Quatz,24,2,49,9.42,98
+Halibut,Seafood,Gevee,82,31,86,9.43,66
+Apple,Fruits & Vegetables,Wikido,17,14,17,9.43,36
+Canola Oil,Oils & Fats,Katz,25,97,63,9.44,72
+Tilapia,Seafood,Geba,56,59,87,9.44,65
+Evaporated Milk,Dairy,Photobug,72,3,10,9.45,52
+Mushrooms,Fruits & Vegetables,Bluezoom,65,42,62,9.45,54
+Grapes,Fruits & Vegetables,Kimia,30,66,28,9.45,63
+Onion,Fruits & Vegetables,Tavu,39,37,48,9.46,25
+Pineapple,Fruits & Vegetables,Rhyloo,14,81,65,9.46,74
+Carrot,Fruits & Vegetables,Gigashots,74,37,57,9.47,91
+Parmesan Cheese,Dairy,Buzzbean,63,41,98,9.47,37
+Peach,Fruits & Vegetables,Youfeed,47,67,57,9.48,36
+Egg (Turkey),Dairy,Browsecat,42,94,79,9.48,61
+Tomato,Fruits & Vegetables,Demimbu,32,49,73,9.49,80
+Lettuce,Fruits & Vegetables,Quamba,88,56,72,9.49,25
+Yogurt,Dairy,Thoughtworks,80,69,71,9.5,41
+Orange,Fruits & Vegetables,Oloo,36,59,90,9.5,25
+Bread Flour,Grains & Pulses,Avaveo,11,77,7,9.5,77
+Peach,Fruits & Vegetables,Livepath,40,83,50,9.51,92
+Bread Flour,Grains & Pulses,Jazzy,63,43,8,9.51,55
+Raw Sugar,Grains & Pulses,Eabox,90,75,43,9.52,80
+Multigrain Bread,Bakery,Bubblebox,47,26,40,9.52,30
+Digestive Biscuit,Bakery,Zoonder,29,2,84,9.53,80
+Peach,Fruits & Vegetables,Blogpad,94,69,68,9.53,24
+Mango,Fruits & Vegetables,Oyoloo,32,63,92,9.54,84
+Plum,Fruits & Vegetables,Mybuzz,40,3,5,9.54,45
+Egg (Goose),Dairy,Tagchat,50,66,1,9.55,76
+Cod,Seafood,Kwimbee,72,29,10,9.55,54
+Pomegranate,Fruits & Vegetables,Tagopia,22,35,55,9.55,41
+Chocolate Biscuit,Bakery,Yakitri,23,76,70,9.56,97
+Halibut,Seafood,Camimbo,35,72,70,9.56,74
+Cucumber,Fruits & Vegetables,Dabtype,12,93,29,9.57,45
+Cheddar Cheese,Dairy,Roomm,86,23,1,9.57,100
+Mackerel,Seafood,Skynoodle,91,96,90,9.58,90
+Evaporated Milk,Dairy,Centimia,23,99,97,9.58,68
+Onion,Fruits & Vegetables,Voolia,98,40,100,9.59,46
+Cherry,Fruits & Vegetables,Voomm,29,66,21,9.59,74
+Coconut,Fruits & Vegetables,Mudo,32,27,26,9.6,38
+Pear,Fruits & Vegetables,Youspan,84,74,48,9.6,64
+Yogurt,Dairy,Bubblemix,86,20,67,9.6,83
+Black Rice,Grains & Pulses,Wordware,11,58,26,9.61,49
+Whole Wheat Flour,Grains & Pulses,Quatz,60,69,64,9.61,51
+Whole Wheat Bread,Bakery,Mybuzz,58,48,9,9.62,98
+Ricotta Cheese,Dairy,Eadel,64,95,62,9.62,55
+Canola Oil,Oils & Fats,Omba,19,80,87,9.63,33
+Cherry,Fruits & Vegetables,Gigazoom,43,41,100,9.63,27
+Peanut Oil,Oils & Fats,Tagopia,38,62,47,9.64,41
+Buttermilk,Dairy,Wordpedia,70,66,74,9.64,47
+Asparagus,Fruits & Vegetables,Jaxspan,18,3,39,9.65,58
+Brown Rice,Grains & Pulses,Fivebridge,46,81,47,9.65,48
+Arabica Coffee,Beverages,Zoozzy,78,34,39,9.65,62
+Canola Oil,Oils & Fats,Tagopia,53,20,75,9.66,83
+Haddock,Seafood,Geba,67,71,4,9.66,76
+Egg (Chicken),Dairy,Einti,36,30,44,9.67,68
+Whole Wheat Flour,Grains & Pulses,Mudo,39,53,64,9.67,92
+Sweet Potato,Fruits & Vegetables,Einti,95,87,13,9.68,61
+Almond Flour,Grains & Pulses,Shuffledrive,12,56,92,9.68,56
+Wild Rice,Grains & Pulses,Yoveo,98,30,39,9.69,31
+Jasmine Rice,Grains & Pulses,Linktype,50,14,99,9.69,52
+Zucchini,Fruits & Vegetables,Vidoo,98,14,11,9.7,48
+Corn Oil,Oils & Fats,Devbug,28,32,71,9.7,32
+Cucumber,Fruits & Vegetables,Kanoodle,67,14,25,9.7,81
+Onion,Fruits & Vegetables,Devpulse,20,93,37,9.71,23
+Trout,Seafood,Topicblab,67,83,90,9.71,66
+Egg (Quail),Dairy,Trunyx,94,60,78,9.72,100
+Black Tea,Beverages,Zoombeat,45,58,84,9.72,90
+Anchovies,Seafood,Voolia,86,55,96,9.73,37
+Wild Rice,Grains & Pulses,Kayveo,72,82,52,9.73,51
+Green Beans,Fruits & Vegetables,Jayo,31,61,28,9.74,55
+Butter Biscuit,Bakery,Ooba,12,7,23,9.74,72
+Gouda Cheese,Dairy,Kazu,71,93,75,9.75,77
+Anchovies,Seafood,Jatri,64,1,92,9.75,49
+Coconut Oil,Oils & Fats,Browsezoom,89,79,66,9.75,91
+Sesame Oil,Oils & Fats,Jaxworks,50,36,96,9.76,53
+Mango,Fruits & Vegetables,Devpulse,53,98,23,9.76,41
+Haddock,Seafood,Rhybox,19,99,78,9.77,29
+Broccoli,Fruits & Vegetables,Plajo,89,40,64,9.77,93
+Cod,Seafood,Katz,96,12,8,9.78,97
+Parmesan Cheese,Dairy,Yakidoo,52,56,34,9.78,31
+Sesame Oil,Oils & Fats,Youopia,97,20,8,9.79,51
+Halibut,Seafood,Camido,88,42,68,9.79,92
+Jasmine Rice,Grains & Pulses,Gabvine,33,44,89,9.8,93
+Jasmine Rice,Grains & Pulses,Katz,98,20,81,9.8,51
+Peach,Fruits & Vegetables,Browsetype,45,79,95,9.8,84
+White Rice,Grains & Pulses,Tagcat,80,86,50,9.81,46
+Halibut,Seafood,Skidoo,68,43,96,9.81,75
+Apricot,Fruits & Vegetables,Zoonder,90,91,62,9.82,34
+Trout,Seafood,Rhynoodle,89,67,89,9.82,96
+Cucumber,Fruits & Vegetables,Youbridge,38,94,87,9.83,89
+Green Beans,Fruits & Vegetables,Fivespan,99,37,74,9.83,46
+Powdered Sugar,Grains & Pulses,Topicshots,66,19,20,9.84,30
+Pomegranate,Fruits & Vegetables,Eare,66,28,7,9.84,85
+Bread Flour,Grains & Pulses,Jetpulse,64,11,97,9.85,33
+Black Rice,Grains & Pulses,Voonder,18,78,43,9.85,85
+Whole Wheat Flour,Grains & Pulses,Rhyloo,86,100,78,9.85,52
+Black Tea,Beverages,Kare,35,88,87,9.86,39
+Green Beans,Fruits & Vegetables,Viva,26,70,52,9.86,36
+Parmesan Cheese,Dairy,Photospace,80,100,48,9.87,100
+Zucchini,Fruits & Vegetables,Skibox,63,56,33,9.87,35
+Vanilla Biscuit,Bakery,Ozu,89,22,23,9.88,83
+Sweet Potato,Fruits & Vegetables,Jaxworks,80,60,71,9.88,98
+Vegetable Oil,Oils & Fats,Tagtune,41,66,50,9.89,55
+Chocolate Biscuit,Bakery,Babbleblab,53,19,94,9.89,82
+Haddock,Seafood,Devshare,61,91,40,9.9,34
+Egg (Duck),Dairy,Aivee,70,92,74,9.9,95
+Mango,Fruits & Vegetables,Skalith,73,69,1,9.9,50
+Kale,Fruits & Vegetables,Devshare,60,15,89,9.91,21
+Pomegranate,Fruits & Vegetables,Twitterwire,88,24,44,9.91,72
+Cauliflower,Fruits & Vegetables,Twitterwire,95,6,59,9.92,49
+Powdered Sugar,Grains & Pulses,Riffwire,47,30,16,9.92,22
+Mozzarella Cheese,Dairy,Eidel,24,1,65,9.93,58
+Anchovies,Seafood,Zoovu,93,51,70,9.93,81
+Sunflower Oil,Oils & Fats,Ooba,80,24,60,9.94,98
+Apple,Fruits & Vegetables,Geba,77,58,13,9.94,63
+Green Beans,Fruits & Vegetables,Kanoodle,42,48,18,9.95,39
+Egg (Turkey),Dairy,Oyondu,92,1,23,9.95,78
+Mushrooms,Fruits & Vegetables,Chatterpoint,81,23,17,9.95,92
+Jasmine Rice,Grains & Pulses,Babbleset,46,39,11,9.96,36
+Brown Rice,Grains & Pulses,Flipbug,44,67,31,9.96,44
+Multigrain Bread,Bakery,Innojam,38,37,27,9.97,45
+Evaporated Milk,Dairy,Demivee,64,28,35,9.97,74
+Long Grain Rice,Grains & Pulses,Ainyx,39,2,71,7.62,20
+White Bread,Bakery,Jazzy,42,88,95,9.98,67
+White Sugar,Grains & Pulses,Devpoint,29,54,54,9.98,58
+Cucumber,Fruits & Vegetables,Bubblemix,60,63,81,9.99,74
+Parmesan Cheese,Dairy,Quatz,65,54,29,9.99,69
+Bell Pepper,Fruits & Vegetables,Meetz,89,96,94,10,38
+Corn Oil,Oils & Fats,No_Name,50,40,69,10,28
+Bell Pepper,Fruits & Vegetables,Livetube,94,18,84,10,44
+Canola Oil,Oils & Fats,No_Name,97,32,43,10.01,82
+Digestive Biscuit,Bakery,No_Name,72,78,1,10.01,85
+Cream,Dairy,No_Name,62,91,14,10.02,41
+Apple,Fruits & Vegetables,Jabbersphere,44,92,92,10.02,41
+Peanut Oil,Oils & Fats,No_Name,21,25,39,10.03,79
+Coconut Sugar,Grains & Pulses,No_Name,91,39,48,10.03,48
+Tuna,Seafood,No_Name,87,24,66,10.04,22
+Spinach,Fruits & Vegetables,No_Name,61,17,69,10.04,31
+Carrot,Fruits & Vegetables,Gigaclub,61,81,99,10.05,26
+Sweet Potato,Fruits & Vegetables,No_Name,49,1,28,10.05,97
+Lemon,Fruits & Vegetables,No_Name,87,1,98,10.05,61
+Multigrain Bread,Bakery,No_Name,93,55,95,10.06,56
+Basmati Rice,Grains & Pulses,Skimia,55,13,71,10.06,37
+Sour Cream,Dairy,No_Name,29,39,80,10.07,23
+Egg (Chicken),Dairy,No_Name,63,62,18,10.07,67
+Potato,Fruits & Vegetables,Rhyzio,42,69,54,10.08,43
+Onion,Fruits & Vegetables,No_Name,74,4,39,10.08,97
+Short Grain Rice,Grains & Pulses,No_Name,22,77,15,10.09,68
+Egg (Chicken),Dairy,Bubblemix,83,35,43,10.09,94
+Wild Rice,Grains & Pulses,No_Name,32,91,80,10.1,69
+Apple,Fruits & Vegetables,Skaboo,84,46,80,10.1,66
+Plum,Fruits & Vegetables,No_Name,22,56,72,10.1,70
+Peas,Fruits & Vegetables,No_Name,100,52,2,10.11,86
+Cheddar Cheese,Dairy,No_Name,36,77,49,10.11,30
+Halibut,Seafood,No_Name,14,67,65,10.12,71
+White Sugar,Grains & Pulses,No_Name,38,82,17,10.12,52
+Eggplant,Fruits & Vegetables,No_Name,97,52,80,10.13,22
+Green Tea,Beverages,No_Name,64,66,28,10.13,25
+Lime,Fruits & Vegetables,No_Name,14,75,19,10.14,100
+Avocado Oil,Oils & Fats,Voolith,24,89,27,10.14,99
+Tilapia,Seafood,No_Name,100,61,21,10.15,85
+Jasmine Rice,Grains & Pulses,No_Name,62,36,96,10.15,31
+Basmati Rice,Grains & Pulses,Yamia,71,60,62,10.15,60
+Parmesan Cheese,Dairy,No_Name,38,67,66,10.16,35
+Powdered Sugar,Grains & Pulses,No_Name,88,34,94,10.16,95
+Sourdough Bread,Bakery,No_Name,40,30,65,10.17,54
+Spinach,Fruits & Vegetables,Shuffledrive,88,78,17,10.17,58
+Cheddar Cheese,Dairy,Gabcube,60,9,89,10.18,95
+Cabbage,Fruits & Vegetables,Lajo,94,90,12,10.18,98
+Avocado Oil,Oils & Fats,Dazzlesphere,30,48,52,10.19,22
+Papaya,Fruits & Vegetables,No_Name,19,28,83,10.19,91

@@ -73,8 +73,13 @@ df_shelves['DIST_b'] = np.sqrt(df_shelves['X']**2 + df_shelves['Y']**2).round(2)
 conditions = (
     (df_shelves['Y'] == 10) |   # Front Row
     (df_shelves['Y'] == 40) |   # Back Row (Dry Essentials)
-    (df_shelves['Type'] == 'R') # Fridges 
+    (
+        (df_shelves['Type'] == 'R') &       # Is a Fridge
+        (df_shelves['Y'] == 60) &           # Located at Y=60
+        (df_shelves['X'].isin([40, 50, 60])) # Specific X coordinates
+    )
 )
+
 df_shelves['is_high_demand'] = np.where(conditions, 1, 0)
 
 df_shelves.to_csv('env_shelves.csv', index=False)
