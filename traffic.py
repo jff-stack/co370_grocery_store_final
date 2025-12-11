@@ -4,7 +4,7 @@ from scipy.spatial import distance_matrix
 
 SHELF_WIDTH = 400         
 NUM_LEVELS = 5            
-DAILY_CUSTOMERS = 3000
+DAILY_CUSTOMERS = 5000
 TRAFFIC_MULT = 1.30       
 
 # level multipliers (Lambda_i) impulse
@@ -99,5 +99,3 @@ scalars = {
 }
 pd.DataFrame(scalars).to_csv('env_scalars.csv', index=False)
 print("create 'env_scalars.csv'")
-
-
