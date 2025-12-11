@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 from scipy.spatial import distance_matrix
 
-SHELF_WIDTH = 400         
+SHELF_WIDTH = 200         
 NUM_LEVELS = 5            
-DAILY_CUSTOMERS = 500
+DAILY_CUSTOMERS = 5000
 TRAFFIC_MULT = 1.30       
 
 # level multipliers (Lambda_i) impulse
