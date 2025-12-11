@@ -35,7 +35,7 @@ omega = {}
 omega_prime = {} 
 
 for shelf in shelves:
-    base_fees = np.random.uniform(100, 200, size=len(df))
+    base_fees = np.random.uniform(5, 10, size=len(df))
     w_values = np.round(base_fees * shelf_quality[shelf], 2)
     w_prime_values = np.round(w_values * traffic_multiplier, 2)
 
@@ -43,7 +43,7 @@ for shelf in shelves:
     df[f'omega_prime_level_{shelf}'] = np.where(df['Supplier_Name'] == 'No_Name', 0, w_prime_values)
 
 # Units per Display (mu), Min (l_p) & Max (v_p) Displays per Product
-df['mu'] = np.where(df['Sales_Volume'] > df['Sales_Volume'].median(), 12, 6) #going by logic that if product is high selling, gets more units in a display
+df['mu'] = np.where(df['Sales_Volume'] > df['Sales_Volume'].median(), 6, 3) #going by logic that if product is high selling, gets more units in a display
 df['min_l'] = np.random.choice(
     [1, 2, 3],    #to keep the minimum to be more realistic, keep it to a range of 1-3
     size=len(df),   
@@ -69,7 +69,7 @@ width_map_cm = {
 df['unit_width_cm'] = df['Category'].map(width_map_cm)
 
 #Calculate Zeta (Space per Display)
-df['facings_per_display'] = np.where(df['mu'] == 12, 2, 1)
+df['facings_per_display'] = np.where(df['mu'] == 6, 2, 1)
 
 df['zeta'] = df['unit_width_cm'] * df['facings_per_display']
 
