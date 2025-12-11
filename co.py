@@ -1,8 +1,19 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('cleaned_dataset2.csv')
+df = pd.read_csv('cleaned_dataset5.csv')
 np.random.seed(42)
+df['Product_Name'] = df['Product_Name'].astype(str).str.strip()
+df['Supplier_Name'] = df['Supplier_Name'].astype(str).str.strip()
+
+# 2. Sort by Sales_Volume so we keep the "best" version of the duplicate
+df = df.sort_values('Sales_Volume', ascending=False)
+
+# 3. Drop duplicates based ONLY on Product and Supplier
+# verify 'df =' is at the start!
+df = df.drop_duplicates(subset=['Product_Name', 'Supplier_Name'], keep='first')
+
+print(f"Rows after removing duplicates: {len(df)}")
 
 df['Unit_Price'] = pd.to_numeric(df['Unit_Price'].astype(str).str.replace('$', ''), errors='coerce')
 
@@ -46,8 +57,8 @@ df['min_l'] = np.random.choice(
     p=[0.6, 0.3, 0.1]) # more skewed to having a min of 1 display per product 
 target_inventory = df['Reorder_Level'] + df['Reorder_Quantity'] #this is the assumed max inventory we would carry, hence target
 df['max_v'] = np.floor(target_inventory / df['mu']).astype(int)
-
 df['min_l'] = np.where(df['min_l'] > df['max_v'], df['max_v'], df['min_l'])
+
 # Space per Display (zeta): avg width of product in each category (rather than define every product's width) * number of facings in display based
 #                                                                                                                                       on # units in display
 #                                                                                                        (i.e. if mu = 12 units, then 2 facings if display 
